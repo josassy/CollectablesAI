@@ -1,0 +1,8 @@
+Packages/
+results/
+*.csproj
+*.sln
+.vscode
+Library
+obj
+Logs
